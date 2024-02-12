@@ -2,7 +2,7 @@
 
 - :lock_with_ink_pen: I´m a Cyber Security Professional
 - :mailbox: Contact: mrsoapsec@proton.me
-- :blue_book: My Daily Cyber Feed: https://start.me/p/MbxlgR/cyber-threat-intelligence
+- 🔥 My Daily Cyber Feed: https://start.me/p/MbxlgR/cyber-threat-intelligence
 
 <!--
 **mrsoapsec/mrsoapsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
